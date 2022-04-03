@@ -1,0 +1,10 @@
+C:\Users\Gabriel\source\repos\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.PRESENTACION.ControlRegistros.resources
+C:\Users\Gabriel\source\repos\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.FormCSharp.resources
+C:\Users\Gabriel\source\repos\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.Properties.Resources.resources
+C:\Users\Gabriel\source\repos\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.csproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\ProyectoCSharp\ProyectoCSharp\bin\Debug\ProyectoCSharp.exe
+C:\Users\Gabriel\source\repos\ProyectoCSharp\ProyectoCSharp\bin\Debug\ProyectoCSharp.pdb
+C:\Users\Gabriel\source\repos\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.exe
+C:\Users\Gabriel\source\repos\ProyectoCSharp\ProyectoCSharp\obj\Debug\ProyectoCSharp.pdb
